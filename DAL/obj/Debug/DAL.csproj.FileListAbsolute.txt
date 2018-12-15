@@ -14,3 +14,11 @@ C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\obj\Debug\DA
 C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\obj\Debug\DAL.dll
 C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\obj\Debug\DAL.pdb
 C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\bin\Debug\DependencyManager.dll
+C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\bin\Debug\EscapeGame.dll
+C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\bin\Debug\Validation.dll
+C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\bin\Debug\NLog.dll
+C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\bin\Debug\DependencyManager.pdb
+C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\bin\Debug\EscapeGame.pdb
+C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\bin\Debug\Validation.pdb
+C:\Users\User\documents\visual studio 2017\Projects\BookService\DAL\bin\Debug\NLog.xml

@@ -6,7 +6,9 @@ namespace BookService
     public class BookCatalogContext: DbContext
     {
 
-        public BookCatalogContext(string connectionString) : base(connectionString) { }
+        private static string connectionString = @"C:\Users\User\Documents\Visual Studio 2017\Projects\BookService\DAL\bin\Debug\bookcatalog.sqlite";
+
+        public BookCatalogContext() : base(connectionString) { }
 
         public void FixEfProviderServicesProblem()
         {
